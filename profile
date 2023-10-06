@@ -1,0 +1,1 @@
+web: gunicorn Nedamcopath_1.wsgi --log-file -
